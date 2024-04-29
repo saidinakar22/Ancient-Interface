@@ -14,3 +14,5 @@ First, we have disabled pie and stack. Used -fno-stack-protector to turn off sta
 
 
 
+
+
