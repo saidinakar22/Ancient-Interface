@@ -10,7 +10,7 @@ Ghidra
 Metasploit
 # Steps
 First, we have disabled pie and stack. Used -fno-stack-protector to turn off stack protection and -no-pie to turn off PIE during compilation with gcc.
-![Uploading image.png…]()
+
 
 
 
